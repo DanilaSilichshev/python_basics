@@ -1,0 +1,5 @@
+Petrov: 19900
+Sidorov: 24000
+Ivanov: 7000
+Demchik: 31000
+Kirilienko: 15000
